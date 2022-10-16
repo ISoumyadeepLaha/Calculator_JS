@@ -22,4 +22,4 @@ It almost tooked 5 hrs to complete the project
 
 # ✈️ Live link
 
-[Netlify Live...]()
+[Netlify Live...](https://soumyadeeplaha-calculatorjs.netlify.app/)
